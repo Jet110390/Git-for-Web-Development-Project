@@ -12,7 +12,7 @@ To build the infrastructure of a web page.
 
     5. Name two tags that have required attributes. The image tag and the anchor tag
 
-    6. What do we put in the head of our HTML document?
+    6. What do we put in the head of our HTML document? the main heading
  
     7. What is an id? It is one of the highest priority specifiers only behind the embedded, inline and external styles. 
 
